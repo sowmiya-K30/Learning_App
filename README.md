@@ -1,25 +1,49 @@
-# Flashcard Learning App
+# Flashcard Learning App 📚
 
-A web application built with Flask that allows users to create, study, and manage flashcards. This app is designed to help users optimize their learning through spaced repetition and progress tracking.
+A web-based flashcard learning application built with **Flask** that helps users create, organize, and study flashcards efficiently. The application supports progress tracking and spaced repetition to make learning more effective.
 
-## Features
+## ✨ Features
 
-- User authentication with login/logout functionality
-- Create and manage flashcards
-- Spaced repetition algorithm for effective learning
-- Progress tracking dashboard
-- Responsive design using Tailwind CSS
+* 🔐 **User Authentication** – Secure login and logout functionality
+* 📝 **Flashcard Management** – Create, edit, and manage flashcards
+* 🔄 **Spaced Repetition** – Review flashcards at suitable intervals for better retention
+* 📊 **Progress Tracking** – Monitor learning progress through a dashboard
+* 📱 **Responsive Design** – Works across desktop, tablet, and mobile devices
+* 🎨 **Modern UI** – Styled using Tailwind CSS
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- **Backend**: Flask, Flask-SQLAlchemy, Flask-Login
-- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS
-- **Database**: SQLite
+### Backend
 
-## Getting Started
+* Python
+* Flask
+* Flask-SQLAlchemy
+* Flask-Login
 
-### Prerequisites
+### Frontend
 
-- Python 3.x
-- pip (Python package installer)
+* HTML
+* CSS
+* JavaScript
+* Tailwind CSS
 
+### Database
+
+* SQLite
+
+## 🎯 Project Objective
+
+The goal of this project is to provide a simple and effective platform for students to practice flashcards, improve knowledge retention, and track their learning progress.
+
+## 📌 Future Improvements
+
+* Add multiple subjects and categories
+* Add quiz and test modes
+* Improve spaced-repetition scheduling
+* Add learning statistics and charts
+* Add cloud database support
+* Add dark mode
+
+## 📜 License
+
+This project is created for educational purposes.
